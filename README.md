@@ -1,1 +1,1 @@
-This is a briefy privcy statement for memo
+This is a brief privacy statement for a memo.
